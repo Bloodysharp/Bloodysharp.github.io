@@ -349,7 +349,7 @@ section{
   width: 50%;
 }
 .education .container::after {
-  content: '\f501';
+  content: '';
   position: absolute;
   width: 25px;
   height: 25px;
